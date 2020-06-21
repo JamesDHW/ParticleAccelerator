@@ -3,9 +3,9 @@ Full projects stored in .ipynb files
 
 ## Visualising the heat equation
 
-<img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png" width="300">
+<img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png" width="400">
 
-<img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat2.png" width="300">
+<img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat2.png" width="400">
 
 ## Analysis of Conway's Game of Life
 
