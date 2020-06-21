@@ -5,7 +5,7 @@ Full projects stored in .ipynb files
 
 <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png" width="300">
 
-<img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png" width="300">
+<img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat2.png" width="300">
 
 ## Analysis of Conway's Game of Life
 
@@ -27,11 +27,11 @@ Some events are not triggered by the desired collision and are in fact false pos
 
 Orange data is unwanted; after cutting, orange datapoints should be minimized.
 
-<img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/attributes.png" width="300">
+<img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/attributes.png" width="500">
 
 ## Introduction to Artificial Neural Nets
 
 Artificial neural networks can be used to classify events; here the scikitLearn library is used to classify a pseudo-random dataset.
 
-<img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/ANN.png" width="300">
+<img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/ANN.png" width="500">
 
